@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 30px;
+    color: #f44336;
+}
+h2{
+    font-size: 20px;
+    color: #95bb72;
+}
+.big{
+    font-size: 60px;
+}
+.medium{
+    font-size: 30px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.italic{
+    font-style: italic;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.oqblique{
+    font-style: oblique;
+}
+.red{
+    color:#f44336;
+}
+.big.lowercase{
+    font-weight: 100;
+}
+h2 span{
+    color:aqua;
+}
