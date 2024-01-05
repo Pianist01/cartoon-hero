@@ -1,0 +1,81 @@
+/* Body Styles */
+body{
+    background-image: url(https://images.unsplash.com/photo-1624139283061-adee53a59791?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBncmFkaWVudHxlbnwwfHwwfHx8MA%3D%3D);
+     background-repeat: no-repeat;
+     margin: 0 auto;
+    line-height: 30px;
+    background-size: cover;
+}
+
+/* Header Styles */
+header{
+    background-image: url(https://images.unsplash.com/photo-1624139283061-adee53a59791?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBncmFkaWVudHxlbnwwfHwwfHx8MA%3D%3D);
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 12.5px;
+    max-width: 100%;
+}
+header h1{
+    color: white;
+}
+header img{
+    border-radius: 70%;
+    border: 3px solid white;
+    width: 344px;
+    height: 344px;
+    padding: 0;
+}
+h1, h2{
+    font-family: 'Oswald', sans-serif;
+    color:white
+}
+/* Main Styles */
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+main img{
+    max-width: 100%;
+}
+/* H1 and H2 Styles */
+h1{
+    font-family: Oswald;
+    font-weight: 200;
+    font-size: 50px;
+}
+h2{
+    font-family: Oswald;
+    font-weight: 200;
+    font-size: 30px;
+    margin: 40px 0 10px;
+}
+/* Paragraphs, Lists, Links, and Footer */
+p{
+    font-family: 'Oswald';
+    font-weight: 500;
+    color:white
+}
+a{
+    font-family: Oswald;
+    font-weight: 400;
+    color:white
+}
+ol{
+    font-family: Oswald;
+    font-weight: 400;
+    color:white
+}
+a:hover{
+    color:darkgrey
+}
+footer{
+    margin: 0 auto;
+    text-align: center;
+}
+p.Caption{
+    font-style: italic;
+    margin-top: 0;
+    color:#999999
+}
